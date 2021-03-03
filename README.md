@@ -16,4 +16,7 @@ When it is downloaded extract the archive.
 
 When it is done press the file INDEX and you can see it now!
 
+![2021-03-03 (7)](https://user-images.githubusercontent.com/64987813/109830905-ed712880-7c0c-11eb-8926-4ee2122e6bc3.png)
+
+
 
